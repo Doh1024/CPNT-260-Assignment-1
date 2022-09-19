@@ -1,0 +1,36 @@
+body{
+  font-family: Arial, sans-serif;
+  line-height: 25px;
+  font-size: 20px;
+}
+
+p,ul{
+  max-width: 100ch;
+  margin: auto
+}
+
+p{
+  margin-bottom: 32px;
+}
+
+h1{
+  font-size:  50px;
+  font-family: 'VALORANT', sans-serif;
+  color: #fa4454;
+  text-align: center;
+  padding: 25px;
+  background-image: url()
+}
+
+h2{
+  text-indent: 100px;
+}
+
+footer{
+  text-align: center;
+}
+
+.main
+{
+  padding-left: 25px;
+}
