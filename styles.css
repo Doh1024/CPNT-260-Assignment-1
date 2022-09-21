@@ -4,8 +4,7 @@ body{
   line-height: 25px;
   font-size: 20px;
   padding: 1rem;
-  margin-bottom: 1rem;
-  background-color: #F6F6F8;
+  background-color: #e3e3e3;
 }
 
 a:hover{
@@ -15,7 +14,7 @@ a:hover{
 p,ul{
   font-family: 'Reem Kufi Fun', sans-serif;
   max-width: 100ch;
-  margin: auto
+  margin: auto;
 }
 
 p{
@@ -37,7 +36,7 @@ h2{
 img{
   display: block;
   margin: auto;
-  height: initial;
+  max-height: 600px;
   width: 100%;
   object-fit: scale-down;
 }
