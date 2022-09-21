@@ -1,7 +1,11 @@
 body{
+  margin: 0;
   font-family: 'Noto Serif JP', 'Noto sans', 'open sans';
   line-height: 25px;
   font-size: 20px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #F6F6F8;
 }
 
 a:hover{
@@ -24,15 +28,18 @@ h1{
   color: #fa4454;
   text-align: center;
   padding: 25px;
-  background-image: url()
 }
 
 h2{
-  text-indent: 100px;
+  text-align: center;
 }
 
-footer{
-  text-align: center;
+img{
+  display: block;
+  margin: auto;
+  height: initial;
+  width: 100%;
+  object-fit: scale-down;
 }
 
 .main
