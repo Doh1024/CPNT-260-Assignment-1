@@ -3,7 +3,6 @@ body{
   font-family: 'Noto Serif JP', 'Noto sans', 'open sans';
   line-height: 25px;
   font-size: 20px;
-  padding: 1rem;
   background-color: #e3e3e3;
 }
 
@@ -12,7 +11,7 @@ a:hover{
 }
 
 p,ul{
-  font-family: 'Reem Kufi Fun', sans-serif;
+  font-family: 'Reem Kufi Fun', 'Noto sans', 'open sans';
   max-width: 100ch;
   margin: auto;
 }
@@ -23,7 +22,7 @@ p{
 
 h1{
   font-size:  80px;
-  font-family: 'VALORANT', sans-serif;
+  font-family: 'VALORANT', 'Noto sans', 'open sans';
   color: #fa4454;
   text-align: center;
   padding: 25px;
