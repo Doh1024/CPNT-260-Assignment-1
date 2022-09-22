@@ -1,6 +1,8 @@
 body{
-  margin: 0;
+  text-align: center;
+  margin: auto;
   font-family: 'Noto Serif JP', 'Noto sans', 'open sans';
+  max-width: 65ch;
   line-height: 25px;
   font-size: 20px;
   background-color: #e3e3e3;
@@ -13,7 +15,7 @@ a:hover{
 p,ul{
   font-family: 'Reem Kufi Fun', 'Noto sans', 'open sans';
   max-width: 100ch;
-  margin: auto;
+  text-align: left;
 }
 
 p{
